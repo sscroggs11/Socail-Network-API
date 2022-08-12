@@ -19,6 +19,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ##Installation to use this database:copy the code from my repository.
 
 ##Usage
+
 1.use npm i to install dependencies
 
 2.use npm start to run the server
