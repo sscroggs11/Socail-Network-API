@@ -11,21 +11,19 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ##Table of Contents
 
-  Installation
-  Usage
-  link
-  Questions
+    Installation
+    Usage
+    link
+    Questions
 
 ##Installation to use this database:copy the code from my repository.
 
 ##Usage
+1.use npm i to install dependencies
 
+2.use npm start to run the server
 
-    use npm i to install dependencies
-
-    use npm start to run the server
-
-    use insomnia or similar software to navigate get,post,put,and delete requests from the Users, Thoughts,reaction, and friend routes. 9.watch walkthrough below to see the full functionality.
+3.use insomnia or similar software to navigate get,post,put,and delete requests from the Users, Thoughts,reaction, and friend routes. 9.watch walkthrough below to see the full functionality.
 
 ##Link To Walkthrough (https://drive.google.com/file/d/1PFE3CTOGw24dNGi3EoisNuS6aU0MobmU/view?usp=sharing )
 
